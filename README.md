@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode"/>
 <img src="https://img.shields.io/github/last-commit/ArchitGupta2004/leetcode-solutions?style=for-the-badge"/>
 <img src="https://img.shields.io/github/repo-size/ArchitGupta2004/leetcode-solutions?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/ArchitGupta2004/leetcode-solutions?style=for-the-badge"/>
+
 
 </div>
 
